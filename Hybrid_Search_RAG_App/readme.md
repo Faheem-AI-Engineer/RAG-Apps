@@ -39,13 +39,7 @@ PINECONE_ONE_TIME_KEY=your_pinecone_api_key
 HF_TOKEN=your_huggingface_token
 ```
 
-### 4 Download NLTK Data
-```python
-import nltk
-nltk.download('punkt_tab')
-```
-
-### 5 Run the Application
+### 4 Run the Application
 ```bash
 streamlit run app.py
 ```
