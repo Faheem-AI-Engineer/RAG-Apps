@@ -16,7 +16,7 @@ Built with modern NLP libraries like:
 - 🤗 Hugging Face Transformers
 - 🦜 LangChain
 - 🐍 Vectore Databases
-- APIS, Streamlit
+- 🌐 APIS, Streamlit
 
 ---
 
