@@ -36,5 +36,5 @@ Built with modern NLP libraries like:
 ```bash
 git clone https://github.com/Faheem-AI-Engineer/RAG-Apps.git
 cd <FOLDER-PATH>
-
+```
 **Note:** Each folder has a different RAG technique. Navigate to the specific folder to see how to run the code for it.
