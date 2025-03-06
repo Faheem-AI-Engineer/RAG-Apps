@@ -34,5 +34,5 @@ Built with modern NLP libraries like:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/<YOUR-GITHUB-USERNAME>/<REPO-NAME>.git
+git clone https://github.com/<YOUR-GITHUB-USERNAME>/<REPO-NAME>.git](https://github.com/Faheem-AI-Engineer/RAG-Apps.git
 cd <REPO-NAME>
