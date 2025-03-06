@@ -42,7 +42,7 @@ HF_TOKEN=your_huggingface_token
 ### 4 Download NLTK Data
 ```python
 import nltk
-nltk.download('punkt')
+nltk.download('punkt_tab')
 ```
 
 ### 5 Run the Application
