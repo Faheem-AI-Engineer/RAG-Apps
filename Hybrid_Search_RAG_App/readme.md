@@ -21,25 +21,25 @@ AskPDF is a Retrieval-Augmented Generation (RAG)-based application that enables 
 
 ## 📦 Installation Guide
 
-### 1 Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/Faheem-AI-Engineer/RAG-Apps.git
 cd Hybrid_Search_RAG_App
 ```
 
-### 2 Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3 Set Up Environment Variables
+### 3. Set Up Environment Variables
 Create a `.env` file in the root directory and add your API keys:
 ```
 PINECONE_ONE_TIME_KEY=your_pinecone_api_key
 HF_TOKEN=your_huggingface_token
 ```
 
-### 4 Run the Application
+### 4. Run the Application
 ```bash
 streamlit run app.py
 ```
