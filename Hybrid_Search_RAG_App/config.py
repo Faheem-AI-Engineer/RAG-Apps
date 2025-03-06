@@ -1,5 +1,7 @@
 import os
 from dotenv import load_dotenv
+import nltk
+nltk.download('punkt_tab')
 
 load_dotenv()
 
