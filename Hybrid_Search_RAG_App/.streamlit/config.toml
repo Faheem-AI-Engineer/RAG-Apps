@@ -1,0 +1,8 @@
+[global]
+wideMode = true
+
+[theme]
+base = "light"
+secondaryBackgroundColor = "#f1f6f0"
+textColor = "#1b33bd"
+font = "monospace"
