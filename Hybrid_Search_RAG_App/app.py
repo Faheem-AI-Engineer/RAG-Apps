@@ -104,7 +104,7 @@ retriever, embeddings, llm = setup_resources()
 rag_chain = create_retrieval_chain(retriever, llm)
 
 # File Upload Handling
-uploaded_file = st.file_uploader("📤 Upload PDF (Max 100MB)", type="pdf")
+uploaded_file = st.file_uploader("📤 Upload PDF", type="pdf")
 if uploaded_file:
     if "processed_files" not in st.session_state:
         st.session_state.processed_files = {}
